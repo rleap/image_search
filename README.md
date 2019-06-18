@@ -1,3 +1,9 @@
+# Image Search
+
+This is a simple React JS App that you can use to search for images.  Based on the keyword(s) you enter, the app fetches back images from Google and nicely displays on the screen.
+
+Demo: <a href="https://rleap.github.io/image_search/">Image Search</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
