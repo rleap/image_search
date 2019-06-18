@@ -2,7 +2,7 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rleap.github.io/image_search/",
+  "homepage": "https://rleap.github.io/image_search",
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.8.6",
